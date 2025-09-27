@@ -111,3 +111,5 @@ The cleaned dataset was used to build an **interactive Power BI dashboard** to v
 - **Average Shipping Days**: 🚚 4 days  
 
 ![Sales Dashboard Preview](Superstore-Sales-Dashboard.jpg)
+
+![Sales Dashboard Preview](Superstore-Sales-Forecast.jpg)
