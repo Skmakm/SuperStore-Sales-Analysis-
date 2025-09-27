@@ -109,3 +109,5 @@ The cleaned dataset was used to build an **interactive Power BI dashboard** to v
 - **Total Profit**: 📈 $175K  
 - **Total Orders**: 📦 22K  
 - **Average Shipping Days**: 🚚 4 days  
+
+![Sales Dashboard Preview](Superstore Sales Dashboard.jpg)
